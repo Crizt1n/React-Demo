@@ -1,0 +1,15 @@
+.divstyle{
+    border: 1px solid;
+    background-color: rgb(76, 194, 122);
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+}
+
+.divStyle{
+    border: 1px solid;
+    background-color: rgb(142, 201, 54);
+    padding: 10px;
+    margin: 40px;
+    text-align: center;
+}
